@@ -1,15 +1,18 @@
-Script started on 2016年03月14日 (週一) 12時20分13秒
+Script started on 2016年03月14日 (週一) 13時46分58秒
+]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ wh[K[Kcd lab1
+]0;F74041030@2015cpp: ~/lab1[01;32mF74041030@2015cpp[00m:[01;34m~/lab1[00m$ cd
 ]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ whoami; pwd
 F74041030
 /home/F74041030
-]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ git config -1[Kl
+]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ git config -l
+user.email=s0916632l4love@gmail.com
+user.name=F4041030
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
 ]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/f[KF74041030/lab1.git
-Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
+fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;F74041030@2015cpp: ~[01;32mF74041030@2015cpp[00m:[01;34m~[00m$ exit
 
-Script done on 2016年03月14日 (週一) 12時22分00秒
+Script done on 2016年03月14日 (週一) 13時49分19秒
