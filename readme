@@ -1,0 +1,2 @@
+g++ -o lab1_b.out lab1_b.cpp
+./lab1_b.out
